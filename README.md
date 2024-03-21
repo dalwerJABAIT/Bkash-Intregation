@@ -31,3 +31,10 @@ create config.json file to storage/app/public
 put credentials
 
 ```
+
+# Sandbox Testing Credentials 
+```
+Testing Number:  01619777283 , 01877722345, 01823074817
+OTP: 123456
+PIN: 12121
+```
