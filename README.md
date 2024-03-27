@@ -34,7 +34,7 @@ put credentials
 
 # Sandbox Testing Credentials 
 ```
-Testing Number: 01877722345, 01823074817
+Testing Number: 01619777283 , 01877722345, 01823074817
 OTP: 123456
 PIN: 12121
 ```
